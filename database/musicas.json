@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "titulo":"Geni e o Zepelim",
+        "compositores": [1]
+    },
+    {
+        "id":2,
+        "titulo":"Sampa",
+        "compositores": [2,3]
+    },
+    {
+        "id":3,
+        "titulo":"Cálice",
+        "compositores": [1,2]
+    }
+]
